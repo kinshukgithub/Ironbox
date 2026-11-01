@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ironbox.dir/src/main.cpp.o CMakeFiles/ironbox.dir/src/process.cpp.o CMakeFiles/ironbox.dir/src/namespace.cpp.o CMakeFiles/ironbox.dir/src/filesystem.cpp.o CMakeFiles/ironbox.dir/src/cgroup.cpp.o -o ironbox 

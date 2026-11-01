@@ -1,0 +1,3 @@
+/home/kingoeij/IronBox-Project/build/CMakeFiles/ironbox.dir
+/home/kingoeij/IronBox-Project/build/CMakeFiles/edit_cache.dir
+/home/kingoeij/IronBox-Project/build/CMakeFiles/rebuild_cache.dir
